@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color appColor = Color(0xff33A78C);
+const Color appRedColor = Color(0xffFF0000);
+const Color appRedColorDim = Color(0xffff3838);
+const Color appRedColorLight = Color(0xffFFA7A7);
+const Color whiteColor = Color(0xffFFFFFF);
+const Color appBackgroundColor = Color(0xffD9EEE9);
+const Color appBlack = Color(0xff000000);
+const Color appTextGray = Color(0xff444444);
+const Color lightBlue = Color(0X9897977E);
+const Color viewGray = Color(0xffD9D9D9);
+const Color darkViewGray = Color(0xffA0A0A0);
+const Color textGray = Color(0xff4A4A4A);
+const Color lightOutlineGray = Color(0xffE0E0E0);
+const Color dotUnselectedColor = Color(0xff92E3D0);
+const Color itemBgColor = Color(0xffF5F5F6);
+const Color hintTextColor = Color(0xff545454);
+const Color blackTextColor = Color(0xff000814);
+const Color passColor = Color(0xff545454);
+const Color textGrayColor = Color(0xff444444);
+const Color boxBackgroundColor = Color(0xffC8E2DC);

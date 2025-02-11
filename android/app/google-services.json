@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "82901182179",
+    "project_id": "xatchup-698d5",
+    "storage_bucket": "xatchup-698d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82901182179:android:ffeb361a10be75801007d6",
+        "android_client_info": {
+          "package_name": "com.ktr.farm_fresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82901182179-ep92spnfenv67s53purqq3p3l8c3hsqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ktr.farm_fresh",
+            "certificate_hash": "a49961d5c2010c151d42aae8073537cd2a95e674"
+          }
+        },
+        {
+          "client_id": "82901182179-q76q0386tgfg89t1m6icldlffihcfem9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHE9mxwCQrsfDshyb9SBABWsHfAMu3hCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82901182179-q76q0386tgfg89t1m6icldlffihcfem9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82901182179-tio6nkr7grmuo2eo0kb4ebgq0t4va357.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ktr.farmFresh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82901182179:android:7beeb981f4c7e7641007d6",
+        "android_client_info": {
+          "package_name": "com.xatchup.xatch_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82901182179-id8pr746a3td6rn276jofva32c9utcqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xatchup.xatch_up",
+            "certificate_hash": "a49961d5c2010c151d42aae8073537cd2a95e674"
+          }
+        },
+        {
+          "client_id": "82901182179-q76q0386tgfg89t1m6icldlffihcfem9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHE9mxwCQrsfDshyb9SBABWsHfAMu3hCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82901182179-q76q0386tgfg89t1m6icldlffihcfem9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82901182179-tio6nkr7grmuo2eo0kb4ebgq0t4va357.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ktr.farmFresh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
